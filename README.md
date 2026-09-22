@@ -16,7 +16,7 @@ API: Groq SDK
 
 *How to run:
 -clone my repository
-  https://github.com/sneh005/skyla-ai.git
+ https://github.com/AbinScaria/project-ai-chatbot.git
 -Install dependencies:
   npm install
 -Run: node server.js
